@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hushine&#39;Blog</title>
   
-  <subtitle>不会说情话的程序员不是好的吉他手。</subtitle>
+  <subtitle>不会说情话的程序员不是好的吉他手.</subtitle>
   <link href="https://hushine6.github.io/atom.xml" rel="self"/>
   
   <link href="https://hushine6.github.io/"/>
