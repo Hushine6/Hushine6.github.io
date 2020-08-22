@@ -6,7 +6,7 @@
   <link href="https://hushine6.github.io/atom.xml" rel="self"/>
   
   <link href="https://hushine6.github.io/"/>
-  <updated>2020-08-21T05:43:26.487Z</updated>
+  <updated>2020-08-22T10:13:16.326Z</updated>
   <id>https://hushine6.github.io/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://hushine6.github.io/posts/0.html"/>
+    <id>https://hushine6.github.io/posts/0.html</id>
+    <published>2020-08-22T09:46:22.106Z</published>
+    <updated>2020-08-22T10:13:16.326Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一：认识键盘"><a href="#一：认识键盘" class="headerlink" title="一：认识键盘"></a>一：认识键盘</h2><blockquote><p>标准计算机键盘共104键，除了26个字母键、符号键、数字键外，其余按键功能如下：</p></blockquote><h3 id="1-主键盘区："><a href="#1-主键盘区：" class="headerlink" title="1. 主键盘区："></a>1. 主键盘区：</h3><table><thead><tr><th>键名</th><th>功能</th></tr></thead><tbody><tr><td>Esc 键：</td><td>escape，退出键；</td></tr><tr><td>Tab 键：</td><td>tabulator key，跳格键，在文本编辑软件中增加四个空格；</td></tr><tr><td>Caps键：</td><td>大写锁定键，用于切换系统大写锁定；</td></tr><tr><td>Win（Start）键</td><td>键盘上画着一个Windows视窗图标的键。按这个键可以打开开始菜单；</td></tr><tr><td>BackSpace 键：</td><td>BackSpace 键：</td></tr><tr><td>Enter键：</td><td>回车键，换行；</td></tr></tbody></table><h3 id="2-功能键区："><a href="#2-功能键区：" class="headerlink" title="2. 功能键区："></a>2. 功能键区：</h3><table><thead><tr><th>键名</th><th>功能</th></tr></thead><tbody><tr><td>F1</td><td>帮助</td></tr><tr><td>F2</td><td>重命名重命名项目 (F2 重命名时按Tab键可重命名下一文件)</td></tr><tr><td>F5</td><td>刷新（网页常用）</td></tr><tr><td>F11</td><td>全屏（网页常用）</td></tr></tbody></table><h3 id="3-编辑键区："><a href="#3-编辑键区：" class="headerlink" title="3. 编辑键区："></a>3. 编辑键区：</h3><table><thead><tr><th>键名</th><th>功能</th></tr></thead><tbody><tr><td>Delete键：</td><td>删除键，文本编辑可以删除光标后而不是前的字符，文件浏览可以删除选中的文件。</td></tr></tbody></table><h2 id="二：常用快捷键"><a href="#二：常用快捷键" class="headerlink" title="二：常用快捷键"></a>二：常用快捷键</h2><blockquote><p><strong>快捷键多的有卖但是常用的也就几个罢了</strong></p></blockquote><h3 id="1：Ctrl键搭配"><a href="#1：Ctrl键搭配" class="headerlink" title="1：Ctrl键搭配"></a>1：Ctrl键搭配</h3><table><thead><tr><th>快捷键</th><th>功能</th></tr></thead><tbody><tr><td>Ctrl+A</td><td>（全选）</td></tr><tr><td>Ctrl+C</td><td>（复制）</td></tr><tr><td>Ctrl+V</td><td>（粘贴）</td></tr><tr><td>Ctrl+S</td><td>（保存）</td></tr><tr><td>Ctrl+F</td><td>（查找）</td></tr><tr><td>Ctrl+X</td><td>（剪切）</td></tr><tr><td>Ctrl+Z</td><td>（撤销）</td></tr><tr><td>Ctrl+Y</td><td>（反撤消）</td></tr><tr><td>Ctrl+Shift</td><td>(切换中英文输入法)</td></tr><tr><td>Ctrl+H</td><td>（替换）</td></tr><tr><td>Ctrl+P</td><td>（打印）</td></tr><tr><td>Ctrl+N</td><td>(新建)</td></tr></tbody></table><h3 id="2：Win键搭配"><a href="#2：Win键搭配" class="headerlink" title="2：Win键搭配"></a>2：Win键搭配</h3><table><thead><tr><th>快捷键</th><th>功能</th></tr></thead><tbody><tr><td>Win(Star)+V</td><td>（粘贴板）</td></tr><tr><td>Win键+ 向左键</td><td>将窗口左移</td></tr><tr><td>Win键+ 向右键</td><td>将窗口右移</td></tr><tr><td>Win键+ 向上键</td><td>最大化窗口</td></tr><tr><td>Win键+ 向下键</td><td>最小化窗口</td></tr><tr><td>Win键+L</td><td>锁定计算机或切换用户</td></tr><tr><td>Win键+D</td><td>显示桌面</td></tr><tr><td>Win键+E</td><td>打开文件管理器</td></tr><tr><td>Win键+G</td><td>打开Xbox游戏录制工具栏，供用户录制游戏视频或截屏激活截屏功能</td></tr><tr><td>Win键+L</td><td>锁定屏幕</td></tr><tr><td>Win键 +Tab+Ctrl</td><td>使用方向键循环切换任务栏上的程序</td></tr><tr><td>Win键+Tab</td><td>循环切换任务栏上的程序</td></tr></tbody></table><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Hushine6/imgbed/img/20200822173711.gif"><p>有时间想录制一期视频。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一：认识键盘&quot;&gt;&lt;a href=&quot;#一：认识键盘&quot; class=&quot;headerlink&quot; title=&quot;一：认识键盘&quot;&gt;&lt;/a&gt;一：认识键盘&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;标准计算机键盘共104键，除了26个字母键、符号键、数字键外，其余按键功能如下：&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://hushine6.github.io/posts/21359.html"/>
+    <id>https://hushine6.github.io/posts/21359.html</id>
+    <published>2020-08-21T07:05:40.946Z</published>
+    <updated>2020-08-22T10:12:43.298Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>有一位大神说，喜欢写博客的人，折腾博客会经历三个阶段。<br>找一个免费的空间，搭建一个博客，很欣喜，很有成就感，此为第一阶段；<br>受限于免费空间的各种限制，自己买空间和域名，实现对博客的完全控制，此为第二阶段；<br>管理网站太累，只想安静码文字，管理网站这种琐事交给专业人士去打理，此微博客人生的最高阶段。</p></blockquote><p>第一次接触个人博客还是在2020年的疫情期间，当时搭建一个个人博客因为没怎么去美化太丑了就没去经验。所以一直在CSDN写博客，但是最近发现CSDN写博客有一个人工审核的时间，所以很不爽，自己又折腾了一个个人博客。这次的博客效果还不错。<br>用的是这个教程   <a href="https://demo.jerryc.me/posts/21cfbf15/#%E5%AE%89%E8%A3%9D">https://demo.jerryc.me/posts/21cfbf15/#%E5%AE%89%E8%A3%9D</a><br>里面写的特别完善，所以搭建的也比较快速顺手。<br>博客搭建我想录一期视频，等有时间吧。</p><h2 id="这个博客准备用来干嘛"><a href="#这个博客准备用来干嘛" class="headerlink" title="这个博客准备用来干嘛"></a>这个博客准备用来干嘛</h2><p>记录很多东西吧，最主要的还是想把自己学的东西整理下来。<br>也想着把自己做的东西分享出去。<br>自己近期一直想弄的两个东西：</p><pre class=" language-bash"><code class="language-bash">$ 友链网 </code></pre><blockquote><p>自己手写的一个东西，主要是用来练习html/css  现在还没写js到里面。后端也没有，只有一个比较简陋的前端页面。<a href="http://39.98.123.18/">http://39.98.123.18/</a> (域名也没下来)</p></blockquote><pre class=" language-bash"><code class="language-bash">$ photoshare 图片分享网</code></pre><blockquote><p>想写一个图片分享的网站，需要有用户注册功能，用户也能分享自己的图片。具体的还在构思中。</p></blockquote><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Hushine6/imgbed/img/20200822013143.png"><h2 id="最近想写的几篇文章"><a href="#最近想写的几篇文章" class="headerlink" title="最近想写的几篇文章"></a>最近想写的几篇文章</h2><h3 id="一些小技巧"><a href="#一些小技巧" class="headerlink" title="一些小技巧"></a>一些小技巧</h3><pre class=" language-bash"><code class="language-bash">$ win10快捷键</code></pre><h3 id="前端三剑客"><a href="#前端三剑客" class="headerlink" title="前端三剑客"></a>前端三剑客</h3><!-- More info: [Writing](https://hexo.io/docs/writing.html) --><pre class=" language-bash"><code class="language-bash">$ html/html5</code></pre><!-- More info: [Server](https://hexo.io/docs/server.html) --><pre class=" language-bash"><code class="language-bash">$ css/css3</code></pre><!-- More info: [Generating](https://hexo.io/docs/generating.html) --><pre class=" language-bash"><code class="language-bash">$ js语法基础/jsdom/jsbom</code></pre><!-- More info: [Deployment](https://hexo.io/docs/one-command-deployment.html) --><pre class=" language-bash"><code class="language-bash">$ C语言</code></pre><!-- More info: [Deployment](https://hexo.io/docs/one-command-deployment.html) --><h2 id="最近想学的东西"><a href="#最近想学的东西" class="headerlink" title="最近想学的东西"></a>最近想学的东西</h2><h3 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库</h3><pre class=" language-bash"><code class="language-bash">$ MySQL</code></pre><!-- More info: [Writing](https://hexo.io/docs/writing.html) --><h3 id="前端"><a href="#前端" class="headerlink" title="前端"></a>前端</h3><pre class=" language-bash"><code class="language-bash">$ JQ</code></pre><!-- More info: [Server](https://hexo.io/docs/server.html) --><pre class=" language-bash"><code class="language-bash">$ Vue</code></pre><!-- More info: [Generating](https://hexo.io/docs/generating.html) --><pre class=" language-bash"><code class="language-bash">$ 微信小程序</code></pre><h3 id="物联网"><a href="#物联网" class="headerlink" title="物联网"></a>物联网</h3><!-- More info: [Deployment](https://hexo.io/docs/one-command-deployment.html) --><pre class=" language-bash"><code class="language-bash">$ Linux</code></pre><!-- More info: [Deployment](https://hexo.io/docs/one-command-deployment.html) --><pre class=" language-bash"><code class="language-bash">$ C/C++进阶</code></pre><!-- More info: [Deployment](https://hexo.io/docs/one-command-deployment.html) --><h3 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h3><!-- More info: [Deployment](https://hexo.io/docs/one-command-deployment.html) --><pre class=" language-bash"><code class="language-bash">$ 线性代数</code></pre><!-- More info: [Deployment](https://hexo.io/docs/one-command-deployment.html) --><pre class=" language-bash"><code class="language-bash">$ 概论</code></pre><!-- More info: [Deployment](https://hexo.io/docs/one-command-deployment.html) --><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;有一位大神说，喜欢写博客的人，折腾博客会经历三个阶段。&lt;br&gt;找一个免费的空间，搭建一个博客，很欣喜，很有成就感，此为第一阶段；&lt;br&gt;受限于免费空间的各种限制，自己买空间和域名，实现对博客的完全控制，此为第二阶段；&lt;br&gt;管理网站太累，只想安静码</summary>
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="https://hushine6.github.io/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -33,28 +77,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>hexo</title>
-    <link href="https://hushine6.github.io/posts/21359.html"/>
-    <id>https://hushine6.github.io/posts/21359.html</id>
-    <published>2020-07-08T16:00:00.000Z</published>
-    <updated>2020-07-09T16:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="第一篇博客"><a href="#第一篇博客" class="headerlink" title="第一篇博客"></a>第一篇博客</h1><h1 id="博客的搭建"><a href="#博客的搭建" class="headerlink" title="博客的搭建"></a>博客的搭建</h1><h1 id="环境的准备"><a href="#环境的准备" class="headerlink" title="环境的准备"></a>环境的准备</h1><h1 id="软件的安装"><a href="#软件的安装" class="headerlink" title="软件的安装"></a>软件的安装</h1><h1 id="主题的更换"><a href="#主题的更换" class="headerlink" title="主题的更换"></a>主题的更换</h1><h1 id="主题的配置"><a href="#主题的配置" class="headerlink" title="主题的配置"></a>主题的配置</h1><h1 id="插件的安装-客服插件-评论插件"><a href="#插件的安装-客服插件-评论插件" class="headerlink" title="插件的安装(客服插件   评论插件)"></a>插件的安装(客服插件   评论插件)</h1><h1 id="域名的绑定"><a href="#域名的绑定" class="headerlink" title="域名的绑定"></a>域名的绑定</h1><h1 id="github-picgo图传的搭建"><a href="#github-picgo图传的搭建" class="headerlink" title="github + picgo图传的搭建"></a>github + picgo图传的搭建</h1><h1 id="cdn加速个人博客"><a href="#cdn加速个人博客" class="headerlink" title="cdn加速个人博客"></a>cdn加速个人博客</h1><h1 id="第二篇博客"><a href="#第二篇博客" class="headerlink" title="第二篇博客"></a>第二篇博客</h1><h1 id="我在csdn里面写得好的全部拿来"><a href="#我在csdn里面写得好的全部拿来" class="headerlink" title="我在csdn里面写得好的全部拿来"></a>我在csdn里面写得好的全部拿来</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;第一篇博客&quot;&gt;&lt;a href=&quot;#第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;第一篇博客&quot;&gt;&lt;/a&gt;第一篇博客&lt;/h1&gt;&lt;h1 id=&quot;博客的搭建&quot;&gt;&lt;a href=&quot;#博客的搭建&quot; class=&quot;headerlink&quot; title=&quot;博客的</summary>
-      
-    
-    
-    
-    
-    <category term="hexo" scheme="https://hushine6.github.io/tags/hexo/"/>
     
   </entry>
   
