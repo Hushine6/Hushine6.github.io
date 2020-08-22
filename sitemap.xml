@@ -2,37 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hushine6.github.io/contact/index.html</loc>
+    <loc>https://hushine6.github.io/xiangce/index.html</loc>
     
-    <lastmod>2020-08-21</lastmod>
+    <lastmod>2020-08-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hushine6.github.io/xiangce/jiangli.html</loc>
+    
+    <lastmod>2020-08-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hushine6.github.io/xiangce/marvel.html</loc>
+    
+    <lastmod>2020-08-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hushine6.github.io/xiangce/wallpaper.html</loc>
+    
+    <lastmod>2020-08-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hushine6.github.io/xiangce/ohmygirl.html</loc>
+    
+    <lastmod>2020-08-22</lastmod>
     
   </url>
   
   <url>
     <loc>https://hushine6.github.io/tags/index.html</loc>
     
-    <lastmod>2020-08-21</lastmod>
+    <lastmod>2020-08-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hushine6.github.io/contact/index.html</loc>
+    
+    <lastmod>2020-08-22</lastmod>
     
   </url>
   
   <url>
     <loc>https://hushine6.github.io/categories/index.html</loc>
     
-    <lastmod>2020-08-21</lastmod>
+    <lastmod>2020-08-22</lastmod>
     
   </url>
   
   <url>
     <loc>https://hushine6.github.io/about/index.html</loc>
     
-    <lastmod>2020-08-21</lastmod>
+    <lastmod>2020-08-22</lastmod>
     
   </url>
   
   <url>
-    <loc>https://hushine6.github.io/friends/index.html</loc>
+    <loc>https://hushine6.github.io/link/index.html</loc>
     
-    <lastmod>2020-08-21</lastmod>
+    <lastmod>2020-08-22</lastmod>
     
   </url>
   
@@ -50,6 +85,13 @@
     
   </url>
   
+  <url>
+    <loc>https://hushine6.github.io/posts/21359.html</loc>
+    
+    <lastmod>2020-07-09</lastmod>
+    
+  </url>
+  
 
   <url>
     <loc>https://hushine6.github.io/</loc>
@@ -58,6 +100,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://hushine6.github.io/tags/hexo/</loc>
+    <lastmod>2020-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 
   
